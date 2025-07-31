@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+body{
+    background-color: #F2E8DF;
+}
+h1{
+   font-family: "Parisienne", cursive;
+    color: #F29966;
+    text-align: center;
+}
+p{
+    color: #32031e;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: #F29966;
+}
+p{
+    text-align: center;
+    color: #F29966;
+}
